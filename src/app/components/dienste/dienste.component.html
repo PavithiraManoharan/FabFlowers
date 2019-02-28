@@ -1,0 +1,6 @@
+<div class="main ui container">
+  <h2>Unsere Top Services</h2>
+  <div class="ui items">
+      <a class="fab-dienstlist-item item" *ngFor="let d of dienste; last as l" [dienst]="d" [last]="l" [routerLink]="d.id"></a>
+  </div>
+</div>

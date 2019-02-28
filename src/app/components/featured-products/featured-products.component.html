@@ -1,0 +1,16 @@
+<!-- http://idangero.us/swiper/api/#layout -->
+<div class="ui small feed">
+  <h3 class="ui header centered">Unsere Featured Produkte</h3>
+  <swiper class="swiper" [config]="config" #usefulSwiper>
+    <div class="swiper-wrapper wrap1">
+      <div class="swiper-slide" style="font-size: 14px;" *ngFor="let featuredProduct of featuredProducts">
+        <img [ngClass]="variants" [src]="featuredProduct.image">
+        <div class="caption">
+          <span>{{ featuredProduct.name }}</span><br>
+          <span>{{ featuredProduct.shortdesc }}</span>
+        </div>
+      </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </swiper>
+</div>

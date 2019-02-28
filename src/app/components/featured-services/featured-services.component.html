@@ -1,0 +1,15 @@
+<!-- http://idangero.us/swiper/api/#layout -->
+<div class="ui small feed">
+  <h3 class="ui header centered">Unsere Featured Services</h3>
+  <swiper class="swiper" [config]="config" #servicesSwiper>
+    <div class="swiper-wrapper wrap1">
+      <div class="swiper-slide" style="font-size: 14px;" *ngFor="let featuredService of featuredServices">
+        <div class="caption">
+          <span>{{ featuredService.name }}</span><br>
+          <span>{{ featuredService.shortdesc }}</span>
+        </div>
+      </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </swiper>
+</div>

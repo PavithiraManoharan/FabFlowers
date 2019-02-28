@@ -1,0 +1,58 @@
+<div class="ui two item tabs menu" *ngIf="!isUpdatingProduct">
+  <a routerLink="../add-product" routerLinkActive="active" class="item">Produkte</a>
+  <a routerLink="../add-dienst" routerLinkActive="active" class="item">Dienstleistungen</a>
+</div>
+
+<h2 *ngIf="isUpdatingProduct">Produkt Bearbeiten</h2>
+<h2 *ngIf="!isUpdatingProduct">Neues Produkt hinzufügen</h2>
+
+<!-- The Form -->
+<form class="ui large form" [formGroup]="myProductForm" (ngSubmit)="submitForm()">
+  <div class="field">
+    <label>Name</label>
+    <input formControlName="name">
+    <div *ngIf="errors.name" class="ui negative message">{{errors.name}}</div>
+  </div>
+  <div class="field">
+    <label>Kurzbeschreibung</label>
+    <input formControlName="shortdesc">
+    <div *ngIf="errors.shortdesc" class="ui negative message">{{errors.shortdesc}}</div>
+  </div>
+  <div class="field disabled" [class.disabled]="isUpdatingProduct">
+    <label>Produkt ID</label>
+    <input formControlName="id" type="number">
+    <div *ngIf="errors.id" class="ui negative message">{{errors.id}}</div>
+  </div>
+  <div class="field">
+    <label>Preis</label>
+    <input formControlName="price" type="number">
+    <div *ngIf="errors.price" class="ui negative message">{{errors.price}}</div>
+  </div>
+  <div class="field">
+    <label>Lagerbestand</label>
+    <input formControlName="available" type="number">
+    <div *ngIf="errors.available" class="ui negative message">{{errors.available}}</div>
+  </div>
+  <div class="ui segment">
+    <div class="field">
+      <div class="ui toggle checkbox">
+        <input type="checkbox" formControlName="featured" tabindex="0">
+        <label>Featured Produkt</label>
+      </div>
+    </div>
+  </div>
+  <div class="field">
+    <label>Langbeschreibung</label>
+    <textarea formControlName="fulldesc" rows="3" *ngIf="!isUpdatingProduct"></textarea>
+    <textarea formControlName="fulldesc" rows="13" *ngIf="isUpdatingProduct"></textarea>
+    <div *ngIf="errors.fulldesc" class="ui negative message">{{errors.fulldesc}}</div>
+  </div>
+  <div class="field">
+    <label>Bild URL</label>
+    <input formControlName="image" placeholder="http://image_url">
+    <div *ngIf="errors.image" class="ui negative message">{{errors.image}}</div>
+  </div>
+  <button *ngIf="!isUpdatingProduct" class="ui green inverted button" routerLink="../">Zurück</button>
+  <button *ngIf="isUpdatingProduct" class="ui green inverted button" routerLink="../../../produkte/{{ produkt.id }}">Zurück</button>
+  <button type="submit" class="ui black button" [disabled]="myProductForm.invalid">Speichern</button>
+</form>

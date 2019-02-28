@@ -1,0 +1,11 @@
+.header.item {
+  font-size: 2.5em;
+  font-style: italic;
+}
+.subtitle {
+  font-size: 14px;
+  bottom: -1.4em;
+  left: -8em;
+  top: 2em;
+  font-weight: 200;
+}

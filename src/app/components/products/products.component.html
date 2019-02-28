@@ -1,0 +1,5 @@
+<div class="main ui container">
+  <div class="ui four link doubling cards">
+      <div class="fab-productlist-item card" *ngFor="let p of products" [product]="p" [routerLink]="p.id"></div>
+  </div>
+</div>

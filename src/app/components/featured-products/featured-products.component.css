@@ -1,0 +1,20 @@
+swiper {
+  height: 280px;
+  width: 85%;
+  margin: auto;
+  background: transparent;
+}
+
+.swiper-slide {
+  position: relative;
+  display: block;
+  background: transparent;
+}
+
+.swiper-slide img {
+  height: 200px;
+}
+
+.ui.small.feed {
+  margin: 10em 0;
+}

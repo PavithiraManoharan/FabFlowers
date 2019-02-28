@@ -1,0 +1,40 @@
+<div class="ui grid container" *ngIf="product">
+  <div class="four wide column">
+    <img class="ui large image" [src]="product?.image">
+  </div>
+  <div class="twelve wide column">
+    <h1 class="ui header">{{ product?.name }}</h1>
+    <h3 class="ui header">{{ product?.shortdesc }}</h3>
+    <div class="ui divider"></div>
+    <div class="ui grid">
+      <div class="eight wide column">
+        <h4 class="ui header">Preis</h4>
+        {{ product.price }} €
+      </div>
+      <div class="eight wide column">
+        <h4 class="ui header">In der Lager sind</h4>
+        {{ product.available }} Stück
+      </div>
+    </div>
+  </div>
+  <div class="sixteen wide column">
+    <h3 class="ui header">Beschreibung</h3>
+    {{ product?.fulldesc }}
+  </div>
+ <!--  <div class="sixteen wide column">
+    <div class="ui small images">
+      <img [src]="product?.image">
+    </div>
+  </div> -->
+</div>
+<div class="ui grid container">
+  <div class="sixteen wide column">
+    <button routerLink="../../produkte" class="ui green inverted button">Zurück zum Shop</button>
+    <a class="ui yellow labeled icon button" [routerLink]="['../../administration/add-product', product?.id]">
+      <i class="write icon"></i> Produkt bearbeiten
+    </a>
+    <button class="ui black labeled icon button" (click)="removeProduct()">
+      <i class="remove icon"></i> Produkt löschen
+    </button>
+  </div>
+</div>
