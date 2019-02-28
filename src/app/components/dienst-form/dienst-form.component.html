@@ -1,0 +1,53 @@
+<div class="ui two item tabs menu" *ngIf="!isUpdatingDienst">
+  <a routerLink="../add-product" routerLinkActive="active" class="item">Produkte</a>
+  <a routerLink="../add-dienst" routerLinkActive="active" class="item">Dienstleistungen</a>
+</div>
+
+<h2 *ngIf="isUpdatingDienst">Service Bearbeiten</h2>
+<h2 *ngIf="!isUpdatingDienst">Neues Service hinzufügen</h2>
+
+<!-- The Form -->
+<form class="ui large form" [formGroup]="myDienstForm" (ngSubmit)="submitForm()">
+  <div class="field">
+    <label>Name</label>
+    <input formControlName="name">
+    <div *ngIf="errors.name" class="ui negative message">{{errors.name}}</div>
+  </div>
+  <div class="field">
+    <label>Kurzbeschreibung</label>
+    <input formControlName="shortdesc">
+    <div *ngIf="errors.shortdesc" class="ui negative message">{{errors.shortdesc}}</div>
+  </div>
+  <div class="field disabled" [class.disabled]="isUpdatingDienst">
+    <label>Service ID</label>
+    <input formControlName="id" type="number">
+    <div *ngIf="errors.id" class="ui negative message">{{errors.id}}</div>
+  </div>
+  <div class="field">
+    <label>Preis</label>
+    <input formControlName="price" type="number">
+    <div *ngIf="errors.price" class="ui negative message">{{errors.price}}</div>
+  </div>
+  <div class="ui segment">
+    <div class="field">
+      <div class="ui toggle checkbox">
+        <input type="checkbox" formControlName="featured" tabindex="0">
+        <label>Featured Service</label>
+      </div>
+    </div>
+  </div>
+  <div class="field">
+    <label>Langbeschreibung</label>
+    <textarea formControlName="longdesc" rows="3" *ngIf="!isUpdatingDienst"></textarea>
+    <textarea formControlName="longdesc" rows="5" *ngIf="isUpdatingDienst"></textarea>
+    <div *ngIf="errors.longdesc" class="ui negative message">{{errors.longdesc}}</div>
+  </div>
+  <div class="field">
+    <label>Bild URL</label>
+    <input formControlName="image" placeholder="http://image_url">
+    <div *ngIf="errors.image" class="ui negative message">{{errors.image}}</div>
+  </div>
+  <button *ngIf="!isUpdatingDienst" class="ui green inverted button" routerLink="../">Zurück</button>
+  <button *ngIf="isUpdatingDienst" class="ui green inverted button" routerLink="../../../services/{{ dienst.id }}">Zurück</button>
+  <button type="submit" class="ui black button" [disabled]="myDienstForm.invalid">Speichern</button>
+</form>

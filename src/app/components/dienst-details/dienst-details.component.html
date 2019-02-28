@@ -1,0 +1,30 @@
+<div class="ui grid container" *ngIf="dienst">
+  <div class="two wide column">
+    <img class="ui large image" [src]="dienst?.image">
+  </div>
+  <div class="fourteen wide column">
+    <h1 class="ui header">{{ dienst?.name }}</h1>
+    <h3 class="ui header">{{ dienst?.shortdesc }}</h3>
+    <div class="ui divider"></div>
+    <div class="ui grid">
+      <div class="sixteen wide column">
+        <h4 class="ui header">Preis: {{ dienst.price }} €</h4>
+      </div>
+    </div>
+  </div>
+  <div class="sixteen wide column">
+    <h3 class="ui header">Beschreibung</h3>
+    {{ dienst?.longdesc }}
+  </div>
+</div>
+<div class="ui grid container">
+  <div class="sixteen wide column">
+    <button routerLink="../../services" class="ui green inverted button">Zurück</button>
+    <a class="ui yellow labeled icon button" [routerLink]="['../../administration/add-dienst', dienst?.id]">
+      <i class="write icon"></i> Service bearbeiten
+    </a>
+    <button class="ui black labeled icon button" (click)="removeDienst()">
+      <i class="remove icon"></i> Service löschen
+    </button>
+  </div>
+</div>

@@ -1,0 +1,481 @@
+{
+  "produkte": [
+    {
+      "id": 1,
+      "name": "Ran Blume",
+      "shortdesc": "Miracle Planet Orchid",
+      "price": 15,
+      "image": "http://opencage.info/pics/files/200_5670.jpg",
+      "available": 40,
+      "featured": true,
+      "fulldesc": "Florem ipsum bergamot, pink heath rose gorse flower evening primrose waratah. Lavender, amazon lily scots primrose snake head. Spring twinflower prince of Wales feather stock. Larkspur floss flower flamingo flower. Prairie gentian calla lily rosemary snow on the mountain. Flowering onion peruvian lily, eustoma alpine thistle stonecrop. Spring cinquefoil montbretia snapdragon tazetta. Waratah september flower, grass of parnassus foxglove red rose ox-eye daisy. Ginger loose strife yarrow, barberton daisy. St john’s wort, african lily flowering onion dog rose. Broom crocus buttercup blue throatwort chickweed spider orchid daffodil. Gillyflower violet columbine, prince of Wales feather, jacob's ladder. Daisy bearberry, gay feather lobster claw. Forget-me-not amazon lily bee orchid cloudberry. Grape hyacinth calla lily hop florist’s nighmare, lisianthus gorse. Love lies bleeding acacia, bee balm oxlip dill spotted orchid coneflower. Cosmos pincushion protea monkshood tuberose cuckooflower bottlebrush. Cockscomb corsage orchid globe amarath. Scabious monkeyflower pink heath flowering cherry cowslip rose."
+    },
+    {
+      "id": 2,
+      "name": "Orchideenblüte",
+      "shortdesc": "Botanical Gardens",
+      "price": 157,
+      "image": "http://opencage.info/pics/files/200_5669.jpg",
+      "available": 98,
+      "featured": true,
+      "fulldesc": "Florem ipsum bergamot, pink heath rose gorse flower evening primrose waratah. Lavender, amazon lily scots primrose snake head. Spring twinflower prince of Wales feather stock. Larkspur floss flower flamingo flower. Prairie gentian calla lily rosemary snow on the mountain. Flowering onion peruvian lily, eustoma alpine thistle stonecrop. Spring cinquefoil montbretia snapdragon tazetta. Waratah september flower, grass of parnassus foxglove red rose ox-eye daisy. Ginger loose strife yarrow, barberton daisy. St john’s wort, african lily flowering onion dog rose. Broom crocus buttercup blue throatwort chickweed spider orchid daffodil. Gillyflower violet columbine, prince of Wales feather, jacob's ladder. Daisy bearberry, gay feather lobster claw. Forget-me-not amazon lily bee orchid cloudberry. Grape hyacinth calla lily hop florist’s nighmare, lisianthus gorse. Love lies bleeding acacia, bee balm oxlip dill spotted orchid coneflower. Cosmos pincushion protea monkshood tuberose cuckooflower bottlebrush. Cockscomb corsage orchid globe amarath. Scabious monkeyflower pink heath flowering cherry cowslip rose."
+    },
+    {
+      "id": 3,
+      "name": "Blume von Jade",
+      "shortdesc": "Miracle Star Orchid",
+      "price": 15,
+      "image": "http://opencage.info/pics/files/200_5664.jpg",
+      "available": 99,
+      "featured": true,
+      "fulldesc": "Florem ipsum bergamot, pink heath rose gorse flower evening primrose waratah. Lavender, amazon lily scots primrose snake head. Spring twinflower prince of Wales feather stock. Larkspur floss flower flamingo flower. Prairie gentian calla lily rosemary snow on the mountain. Flowering onion peruvian lily, eustoma alpine thistle stonecrop. Spring cinquefoil montbretia snapdragon tazetta. Waratah september flower, grass of parnassus foxglove red rose ox-eye daisy. Ginger loose strife yarrow, barberton daisy. St john’s wort, african lily flowering onion dog rose. Broom crocus buttercup blue throatwort chickweed spider orchid daffodil. Gillyflower violet columbine, prince of Wales feather, jacob's ladder. Daisy bearberry, gay feather lobster claw. Forget-me-not amazon lily bee orchid cloudberry. Grape hyacinth calla lily hop florist’s nighmare, lisianthus gorse. Love lies bleeding acacia, bee balm oxlip dill spotted orchid coneflower. Cosmos pincushion protea monkshood tuberose cuckooflower bottlebrush. Cockscomb corsage orchid globe amarath. Scabious monkeyflower pink heath flowering cherry cowslip rose"
+    },
+    {
+      "id": 4,
+      "name": "Miya Indian Beauty",
+      "shortdesc": "Wunderstern, botanische Halle",
+      "price": 15,
+      "image": "http://opencage.info/pics/files/200_5682.jpg",
+      "available": 99,
+      "featured": false,
+      "fulldesc": "Florem ipsum bergamot, pink heath rose gorse flower evening primrose waratah. Lavender, amazon lily scots primrose snake head. Spring twinflower prince of Wales feather stock. Larkspur floss flower flamingo flower. Prairie gentian calla lily rosemary snow on the mountain. Flowering onion peruvian lily, eustoma alpine thistle stonecrop. Spring cinquefoil montbretia snapdragon tazetta. Waratah september flower, grass of parnassus foxglove red rose ox-eye daisy. Ginger loose strife yarrow, barberton daisy. St john’s wort, african lily flowering onion dog rose. Broom crocus buttercup blue throatwort chickweed spider orchid daffodil. Gillyflower violet columbine, prince of Wales feather, jacob's ladder. Daisy bearberry, gay feather lobster claw. Forget-me-not amazon lily bee orchid cloudberry. Grape hyacinth calla lily hop florist’s nighmare, lisianthus gorse. Love lies bleeding acacia, bee balm oxlip dill spotted orchid coneflower. Cosmos pincushion protea monkshood tuberose cuckooflower bottlebrush. Cockscomb corsage orchid globe amarath. Scabious monkeyflower pink heath flowering cherry cowslip rose."
+    },
+    {
+      "id": 5,
+      "name": "Paphiopedilum",
+      "shortdesc": "Miracle Planet Orchid",
+      "price": 15,
+      "image": "http://opencage.info/pics/files/200_5658.jpg",
+      "available": 99,
+      "featured": true,
+      "fulldesc": "Florem ipsum bergamot, pink heath rose gorse flower evening primrose waratah. Lavender, amazon lily scots primrose snake head. Spring twinflower prince of Wales feather stock. Larkspur floss flower flamingo flower. Prairie gentian calla lily rosemary snow on the mountain. Flowering onion peruvian lily, eustoma alpine thistle stonecrop. Spring cinquefoil montbretia snapdragon tazetta. Waratah september flower, grass of parnassus foxglove red rose ox-eye daisy. Ginger loose strife yarrow, barberton daisy. St john’s wort, african lily flowering onion dog rose. Broom crocus buttercup blue throatwort chickweed spider orchid daffodil. Gillyflower violet columbine, prince of Wales feather, jacob's ladder. Daisy bearberry, gay feather lobster claw. Forget-me-not amazon lily bee orchid cloudberry. Grape hyacinth calla lily hop florist’s nighmare, lisianthus gorse. Love lies bleeding acacia, bee balm oxlip dill spotted orchid coneflower. Cosmos pincushion protea monkshood tuberose cuckooflower bottlebrush. Cockscomb corsage orchid globe amarath. Scabious monkeyflower pink heath flowering cherry cowslip rose."
+    },
+    {
+      "id": 6,
+      "name": "Beckenorchideenblumen",
+      "shortdesc": "Unter natürlichem Licht",
+      "price": 15,
+      "image": "http://opencage.info/pics/files/200_5667.jpg",
+      "available": 99,
+      "featured": false,
+      "fulldesc": "Florem ipsum bergamot, pink heath rose gorse flower evening primrose waratah. Lavender, amazon lily scots primrose snake head. Spring twinflower prince of Wales feather stock. Larkspur floss flower flamingo flower. Prairie gentian calla lily rosemary snow on the mountain. Flowering onion peruvian lily, eustoma alpine thistle stonecrop. Spring cinquefoil montbretia snapdragon tazetta. Waratah september flower, grass of parnassus foxglove red rose ox-eye daisy. Ginger loose strife yarrow, barberton daisy. St john’s wort, african lily flowering onion dog rose. Broom crocus buttercup blue throatwort chickweed spider orchid daffodil. Gillyflower violet columbine, prince of Wales feather, jacob's ladder. Daisy bearberry, gay feather lobster claw. Forget-me-not amazon lily bee orchid cloudberry. Grape hyacinth calla lily hop florist’s nighmare, lisianthus gorse. Love lies bleeding acacia, bee balm oxlip dill spotted orchid coneflower. Cosmos pincushion protea monkshood tuberose cuckooflower bottlebrush. Cockscomb corsage orchid globe amarath. Scabious monkeyflower pink heath flowering cherry cowslip rose."
+    },
+    {
+      "id": 7,
+      "name": "Jacquiniella",
+      "shortdesc": "Jacquiniella Globosa aus Mexico",
+      "price": 15,
+      "image": "http://opencage.info/pics/files/200_5668.jpg",
+      "available": 99,
+      "featured": false,
+      "fulldesc": "Florem ipsum bergamot, pink heath rose gorse flower evening primrose waratah. Lavender, amazon lily scots primrose snake head. Spring twinflower prince of Wales feather stock. Larkspur floss flower flamingo flower. Prairie gentian calla lily rosemary snow on the mountain. Flowering onion peruvian lily, eustoma alpine thistle stonecrop. Spring cinquefoil montbretia snapdragon tazetta. Waratah september flower, grass of parnassus foxglove red rose ox-eye daisy. Ginger loose strife yarrow, barberton daisy. St john’s wort, african lily flowering onion dog rose. Broom crocus buttercup blue throatwort chickweed spider orchid daffodil. Gillyflower violet columbine, prince of Wales feather, jacob's ladder. Daisy bearberry, gay feather lobster claw. Forget-me-not amazon lily bee orchid cloudberry. Grape hyacinth calla lily hop florist’s nighmare, lisianthus gorse. Love lies bleeding acacia, bee balm oxlip dill spotted orchid coneflower. Cosmos pincushion protea monkshood tuberose cuckooflower bottlebrush. Cockscomb corsage orchid globe amarath. Scabious monkeyflower pink heath flowering cherry cowslip rose."
+    },
+    {
+      "id": 8,
+      "name": "Vandopsis",
+      "shortdesc": "Aus Nepal",
+      "price": 15,
+      "image": "http://opencage.info/pics/files/200_5746.jpg",
+      "available": 99,
+      "featured": false,
+      "fulldesc": "Florem ipsum bergamot, pink heath rose gorse flower evening primrose waratah. Lavender, amazon lily scots primrose snake head. Spring twinflower prince of Wales feather stock. Larkspur floss flower flamingo flower. Prairie gentian calla lily rosemary snow on the mountain. Flowering onion peruvian lily, eustoma alpine thistle stonecrop. Spring cinquefoil montbretia snapdragon tazetta. Waratah september flower, grass of parnassus foxglove red rose ox-eye daisy. Ginger loose strife yarrow, barberton daisy. St john’s wort, african lily flowering onion dog rose. Broom crocus buttercup blue throatwort chickweed spider orchid daffodil. Gillyflower violet columbine, prince of Wales feather, jacob's ladder. Daisy bearberry, gay feather lobster claw. Forget-me-not amazon lily bee orchid cloudberry. Grape hyacinth calla lily hop florist’s nighmare, lisianthus gorse. Love lies bleeding acacia, bee balm oxlip dill spotted orchid coneflower. Cosmos pincushion protea monkshood tuberose cuckooflower bottlebrush. Cockscomb corsage orchid globe amarath. Scabious monkeyflower pink heath flowering cherry cowslip rose."
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstname": "Jean",
+      "lastname": "O' Concannon",
+      "image": "https://robohash.org/illoinrepellendus.png?size=100x100&set=set1",
+      "roll": "Help Desk Technician",
+      "slogan": "synergize seamless mindshare",
+      "desc": "Virtual multi-tasking monitoring"
+    },
+    {
+      "id": 2,
+      "firstname": "Charlie",
+      "lastname": "Connah",
+      "image": "https://robohash.org/nonaliasvero.bmp?size=100x100&set=set1",
+      "roll": "Cost Accountant",
+      "slogan": "deliver next-generation methodologies",
+      "desc": "Multi-channelled leading edge Graphic Interface"
+    },
+    {
+      "id": 3,
+      "firstname": "Babbette",
+      "lastname": "Du Pre",
+      "image": "https://robohash.org/quaeratipsamvelit.png?size=100x100&set=set1",
+      "roll": "VP Quality Control",
+      "slogan": "revolutionize scalable synergies",
+      "desc": "Diverse scalable array"
+    },
+    {
+      "id": 4,
+      "firstname": "Cal",
+      "lastname": "Simeons",
+      "image": "https://robohash.org/autfacilisrerum.bmp?size=100x100&set=set1",
+      "roll": "Systems Administrator II",
+      "slogan": "extend best-of-breed eyeballs",
+      "desc": "Inverse reciprocal core"
+    },
+    {
+      "id": 5,
+      "firstname": "Ekaterina",
+      "lastname": "Gorthy",
+      "image": "https://robohash.org/autassumendadolores.png?size=100x100&set=set1",
+      "roll": "Actuary",
+      "slogan": "iterate e-business bandwidth",
+      "desc": "Cloned systemic concept"
+    },
+    {
+      "id": 6,
+      "firstname": "Lelia",
+      "lastname": "Glowinski",
+      "image": "https://robohash.org/nequemollitiasit.bmp?size=100x100&set=set1",
+      "roll": "Account Executive",
+      "slogan": "redefine viral action-items",
+      "desc": "Polarised bifurcated challenge"
+    },
+    {
+      "id": 7,
+      "firstname": "Pen",
+      "lastname": "McManamen",
+      "image": "https://robohash.org/voluptateteneturmolestias.png?size=100x100&set=set1",
+      "roll": "Physical Therapy Assistant",
+      "slogan": "integrate mission-critical experiences",
+      "desc": "Focused high-level moratorium"
+    },
+    {
+      "id": 8,
+      "firstname": "Annette",
+      "lastname": "Pyffe",
+      "image": "https://robohash.org/illumimpeditvoluptatem.jpg?size=100x100&set=set1",
+      "roll": "Help Desk Operator",
+      "slogan": "mesh viral networks",
+      "desc": "Assimilated context-sensitive forecast"
+    },
+    {
+      "id": 9,
+      "firstname": "Juliet",
+      "lastname": "Foreman",
+      "image": "https://robohash.org/etipsumexplicabo.bmp?size=100x100&set=set1",
+      "roll": "Operator",
+      "slogan": "transition B2C systems",
+      "desc": "Quality-focused exuding paradigm"
+    },
+    {
+      "id": 10,
+      "firstname": "Waiter",
+      "lastname": "Piatkow",
+      "image": "https://robohash.org/nullaquisvoluptatem.jpg?size=100x100&set=set1",
+      "roll": "Staff Scientist",
+      "slogan": "monetize impactful systems",
+      "desc": "Organic static methodology"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "source": "Spiegel Online",
+      "author": "Carsten Görig",
+      "title": "Motocross-Game \"Trials Rising\": Leicht kompliziert - SPIEGEL ONLINE",
+      "description": "\"Trials Rising\" ist mehr Geschicklichkeits- als Rennspiel: Ein falscher Tastendruck und der Fahrer liegt unterm Motorrad. Das ist so anstrengend, wie es klingt - dafür macht jeder fehlerfreie Lauf glücklich.",
+      "url": "http://www.spiegel.de/netzwelt/games/trials-rising-fuer-playstation-4-xbox-one-pc-und-switch-im-test-leicht-kompliziert-a-1255127.html",
+      "urlToImage": "http://cdn1.spiegel.de/images/image-1399750-860_poster_16x9-aovj-1399750.jpg",
+      "publishedAt": "2019-02-26T20:03:39Z",
+      "content": "Dienstag, 26.02.2019 21:03 Uhr Zum Schluss fällt man immer auf die Nase. Weil man mit dem Motocross-Motorrad gegen eine Wand rast, in einen Haufen explodierender Fässer springt oder von einem Krankenwagen überfahren wird. Der Zieleinlauf in \"Trials Rising\" is… [+3611 chars]"
+    },
+    {
+      "id": 2,
+      "source": "T-online.de",
+      "author": "dpa",
+      "title": "Volkswagen: Mit Jetta als neue Marke will VW in China überzeugen - t-online.de",
+      "description": "Die chinesische Mittelschicht wächst und Volkswagen will Sie mit einer bestimmten Automarke überzeugen. Warum der Markt so wichtig für den deutschen Autobauer ist.",
+      "url": "https://www.t-online.de/auto/neuvorstellungen/id_85317500/volkswagen-mit-jetta-als-neue-marke-will-vw-in-china-ueberzeugen.html",
+      "urlToImage": "https://bilder.t-online.de/b/85/31/75/68/id_85317568/tid_da/volkswagenlogo-an-einer-hauswand-mit-rund-50-prozent-an-den-weltweiten-auslieferungen-ist-china-der-groesste-einzelmarkt-fuer-volkswagen-.jpg",
+      "publishedAt": "2019-02-26T19:19:00Z",
+      "content": "Die chinesische Mittelschicht wächst und Volkswagen will sie mit einer bestimmten Automarke überzeugen. Warum der Markt so wichtig für den deutschen Autobauer ist. Mit einer neuen Marke \" Jetta \" will Volkswagen noch in diesem Jahr junge Käufer in China gewin… [+1171 chars]"
+    },
+    {
+      "id": 3,
+      "source": "Merkur.de",
+      "author": null,
+      "title": "Berlin: Rebecca (15) vermisst - Vater äußert erschreckenden Verdacht - Polizei soll nun WhatsApp-Zugriff haben | Welt - fehmarn24.de",
+      "description": "Die 15-jährige Rebecca aus Berlin wird seit Tagen vermisst. Ihre Schwester meldet sich mit einem dramatischen Hilferuf zu Wort. Auch der Vater spricht.",
+      "url": "https://www.merkur.de/welt/berlin-rebecca-15-vermisst-vater-aeussert-erschreckenden-verdacht-polizei-soll-nun-whatsapp-zugriff-haben-zr-11795231.html",
+      "urlToImage": "https://www.merkur.de/bilder/2019/02/24/11795231/559679770-rebecca-berlin-vermisst-GTlRoIFlKef.jpg",
+      "publishedAt": "2019-02-26T19:15:00Z",
+      "content": "Die 15-jährige Rebecca aus Berlin wird seit Tagen vermisst. Ihre Schwester meldet sich mit einem dramatischen Hilferuf zu Wort. Auch der Vater spricht. 20.14 Uhr: Die Polizei soll mittlerweile Zugriff auf den WhatsApp-Account der 15-jährigen verschwundenen Re… [+10612 chars]"
+    },
+    {
+      "id": 4,
+      "source": "T-online.de",
+      "author": "Maria Holzhauer, t-online.de",
+      "title": "Herzogin Meghan & Prinz Harry: Die vielseitigen Looks der Marokko-Reise - t-online.de",
+      "description": "Bevor sie in einigen Wochen erstmals Eltern werden, stand für Herzogin Meghan und Prinz Harry eine letzte Reise an: In drei Tagen in Marokko haben sie viel erlebt und Meghan präsentierte gleich acht unterschiedliche Looks.",
+      "url": "https://www.t-online.de/unterhaltung/stars/royals/id_85309748/herzogin-meghan-prinz-harry-die-vielseitigen-looks-der-marokko-reise.html",
+      "urlToImage": "https://bilder.t-online.de/b/85/31/79/02/id_85317902/tid_da/herzogin-meghan-hier-sind-nur-drei-ihrer-acht-marokko-looks-zu-sehen-.jpg",
+      "publishedAt": "2019-02-26T19:07:00Z",
+      "content": null
+    },
+    {
+      "id": 5,
+      "source": "Welt.de",
+      "author": "WELT",
+      "title": "Decathlon: Kopftuch für Joggerinnen sorgt in Frankreich für Empörung - WELT",
+      "description": "Vollverschleierung ist in Frankreich verboten. Die Sportartikel-Kette Decathlon löste nun Wirbel aus, weil sie ein Kopftuch für Joggerinnen angeboten hat. Die Reaktionen fallen deutlich aus, das Unternehmen macht einen Rückzieher.",
+      "url": "https://www.welt.de/politik/ausland/article189429413/Decathlon-Kopftuch-fuer-Joggerinnen-sorgt-in-Frankreich-fuer-Empoerung.html",
+      "urlToImage": "https://www.welt.de/img/politik/ausland/mobile189431041/0331350527-ci16x9-w1200/arabic-3-con-2.jpg",
+      "publishedAt": "2019-02-26T18:27:00Z",
+      "content": "E in Kopftuch für Joggerinnen der Sportartikelkette Decathlon sorgt in Frankreich für Empörung. Der sogenannte Renn-Hidschab wurde auf der französischen Webseite des Unternehmens zum Kauf angeboten und löste heftige Reaktionen bis hin zu Boykottaufrufen aus. … [+1911 chars]"
+    },
+    {
+      "id": 6,
+      "source": "Welt.de",
+      "author": "Thomas Kielinger",
+      "title": "Brexit-Verschiebung: Theresa May verschafft sich etwas Luft - WELT",
+      "description": "Die britische Premierministerin bietet eine Verschiebung des Brexit-Termins an. Doch von ihrer rigorosen Verhandlungslinie rückt sie nicht ab. Und der Streit um das Austrittsdatum bekommt damit einen kuriosen Nebenaspekt.",
+      "url": "https://www.welt.de/politik/ausland/article189462673/Brexit-Verschiebung-Theresa-May-verschafft-sich-etwas-Luft.html",
+      "urlToImage": "https://www.welt.de/img/politik/ausland/mobile189462671/8811358417-ci16x9-w1200/Britain-s-Prime-Minister-Theresa-May-is-seen-outside-of-Downing-Street-in-Lo-2.jpg",
+      "publishedAt": "2019-02-26T18:21:00Z",
+      "content": "D as Tauziehen in der britischen Politik um den Brexit hält an. Auch das Statement von Premierministerin Theresa May am Dienstag vor dem Parlament hat zu keiner Beruhigung der Nerven geführt. Dass sie sich jetzt erstmals offen zeigt für eine Verschiebung des … [+6369 chars]"
+    },
+    {
+      "id": 7,
+      "source": "Spiegel Online",
+      "author": "Markus Becker",
+      "title": "Heikler Praktikumsplatz: Tochter von Putins Sprecher arbeitet im EU-Parlament - SPIEGEL ONLINE",
+      "description": "Eine Praktikantin im EU-Parlament sorgt für Aufregung: Die Tochter von Putins Sprecher sammelt bei einem französischen Rechtsradikalen Erfahrung. Hat Elisaweta Peskowa Zugang zu brisanten Informationen?",
+      "url": "http://www.spiegel.de/politik/ausland/praktikum-tochter-von-putins-sprecher-arbeitet-im-eu-parlament-a-1255211.html",
+      "urlToImage": "http://cdn4.spiegel.de/images/image-1399917-860_poster_16x9-wjsi-1399917.jpg",
+      "publishedAt": "2019-02-26T18:11:00Z",
+      "content": "Dienstag, 26.02.2019 19:11 Uhr Die meiste Aufmerksamkeit bekommt Elisaweta Peskowa üblicherweise auf Instagram. Ihre fast 80.000 Follower versorgt die junge Russin dort mit Fotos von ihrem Leben: Mal steht sie vor dem Eiffelturm, mal posiert sie vor einem Kam… [+4402 chars]"
+    },
+    {
+      "id": 8,
+      "source": "Sueddeutsche.de",
+      "author": "Süddeutsche.de GmbH, Munich, Germany",
+      "title": "Automobilindustrie - Für Opel gilt das Gesetz des Stärkeren - Süddeutsche Zeitung",
+      "description": "Der deutsche Autobauer erzielt wieder Gewinn. Die Zukunft der Mitarbeiter ist damit aber nicht gesichert: Der Chef des Mutterkonzerns PSA setzt auf einen harten Überlebenskampf.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/opel-zahlen-gewinn-stellen-1.4345674",
+      "urlToImage": "https://media-cdn.sueddeutsche.de/image/sz.1.4346780/1200x675?v=1551198488",
+      "publishedAt": "2019-02-26T18:03:00Z",
+      "content": "Opel erzielte 2018 wieder Gewinn. Doch für die Mitarbeiter bedeutet das keine Sicherheit. Carlos Tavares, Chef des Mutterkonzerns PSA, zitiert Charles Darwin und fordert weitere Anpassungen bei Opel. Außerdem schimpft über die Gewerkschaften. PSA hatte Opel 2… [+6749 chars]"
+    },
+    {
+      "id": 9,
+      "source": "Die Zeit",
+      "author": "Fabian Kretschmer",
+      "title": "USA und Nordkorea: Kim will vor allem am Leben bleiben - ZEIT ONLINE",
+      "description": "Vor dem Gipfeltreffen in Hanoi hat Nordkoreas Machthaber offenbar mehr als 50 Kader entfernt und Reformen veranlasst. Wie Kim Jong Un sein Regime stabil hält",
+      "url": "https://www.zeit.de/politik/ausland/2019-02/usa-nordkorea-kim-jong-un-donald-trump-hanoi-gipfeltreffen",
+      "urlToImage": "https://img.zeit.de/politik/ausland/2019-02/kim-jong-un-donald-trump-hanoi/wide__1300x731",
+      "publishedAt": "2019-02-26T18:00:15Z",
+      "content": "Während Kim Jong Un gerade aus seinem gepanzerten Zug in Hanoi aussteigt, haben sich vier Flugstunden nördlich auf dem Seouler Gwanghwamun-Platz mehrere Dutzend nordkoreanische Flüchtlinge versammelt: Mit entschlossener Miene und martialischen Schlachtrufen h… [+3195 chars]"
+    },
+    {
+      "id": 10,
+      "source": "Faz.net",
+      "author": "Stephan Löwenstein",
+      "title": "Kickl will Sicherungshaft für Asylbewerber möglich machen - FAZ - Frankfurter Allgemeine Zeitung",
+      "description": "Behörden sollen gegen verdächtige Asylbewerber eine Sicherungshaft verhängen können, die erst nachträglich gerichtlich überprüft wird, fordert Herbert Kickl. Dazu müsste allerdings die Verfassung geändert werden.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/mehr-initiativen-gegen-asylbewerber-16061802.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/3466287451/1.6062049/article_multimedia_overview/oesterreichs-innenminister.jpg",
+      "publishedAt": "2019-02-26T17:55:00Z",
+      "content": "D ie Mitte-rechts-Koalition in Österreich profiliert sich zunehmend mit Initiativen gegen Asylbewerber. Maßgeblicher Protagonist ist dabei Innenminister Herbert Kickl von der rechten FPÖ. Er hat zuletzt vorgeschlagen, dass Behörden gegen verdächtige Asylbewer… [+5037 chars]"
+    },
+    {
+      "id": 11,
+      "source": "Spiegel Online",
+      "author": "SPIEGEL ONLINE",
+      "title": "Nürnberg: Neonazis posieren mit Fackeln auf ehemaligem Reichsparteitagsgelände - SPIEGEL ONLINE",
+      "description": "Rechtsextreme haben in Nürnberg das ehemalige Reichsparteitagsgelände für eine Propagandaaktion missbraucht. Die Polizei war vor Ort - und schätzte die Lage offenbar falsch ein.",
+      "url": "http://www.spiegel.de/politik/deutschland/nuernberg-polizei-laesst-rechtsextreme-auf-reichsparteitagsgelaende-marschieren-a-1255216.html",
+      "urlToImage": "http://cdn1.spiegel.de/images/image-835044-860_poster_16x9-idsb-835044.jpg",
+      "publishedAt": "2019-02-26T17:37:00Z",
+      "content": "Dienstag, 26.02.2019 18:37 Uhr Mitglieder einer rechtsextremen Gruppe haben in Nürnberg auf dem ehemaligen Reichsparteitagsgelände einen Fackelzug abgehalten. Später verbreiteten sie ein Propaganda-Video im Netz, in dem auch die erste Strophe des Deutschlandl… [+1641 chars]"
+    },
+    {
+      "id": 12,
+      "source": "Bild",
+      "author": "Bild.de",
+      "title": "1. Titel beim Team-Wettbewerb: Skisprung-Mädels fliegen zu WM-Gold! - BILD",
+      "description": "JAAAA, jetzt dürfen auch unsere Skisprung-Mädels über Gold jubeln! Bei der WM-Premiere des Teamwettbewerbs gewinnen unsere DSV-Adlerinnen vor",
+      "url": "https://www.bild.de/sport/wintersport/wintersport/1-titel-beim-team-wettbewerb-skisprung-maedels-fliegen-zu-wm-gold-60371088.bild.html",
+      "urlToImage": "https://bilder.bild.de/fotos/1-titel-beim-team-wettbewerb-skisprung-maedels-fliegen-zu-wm-gold--201064703-60371694/Bild/3.bild.jpg",
+      "publishedAt": "2019-02-26T17:22:00Z",
+      "content": "JAAAA, jetzt dürfen auch unsere Skisprung-Mädels über Gold jubeln! Bei der WM-Premiere des Teamwettbewerbs in Seefeld (Österreich) gewinnen unsere DSV-Adlerinnen Juliane Seyfarth (29), Ramona Straub (25), Carina Vogt (27) und Katharina Althaus (22) vor Österr… [+1046 chars]"
+    },
+    {
+      "id": 13,
+      "source": "Sport1.de",
+      "author": "Tobias Wiltschek",
+      "title": "Gareth Bale wird für Real Madrid zum Problem - SPORT1",
+      "description": "Gareth Bale sollte bei Real der kommende Superstar werden. Doch statt Ronaldos Rolle zu übernehmen, isoliert sich der Waliser bei den \"Königlichen\" zusehends.",
+      "url": "https://www.sport1.de/internationaler-fussball/la-liga/2019/02/gareth-bale-wird-fuer-real-madrid-zum-problem",
+      "urlToImage": "https://reshape.sport1.de/unsafe/1200x630/filters:focus(58,38)/https://images.sport1.de/imagix/ebf3d0e8-39d0-11e9-b08e-b8ca3a67761c",
+      "publishedAt": "2019-02-26T17:21:00Z",
+      "content": "Sie hatte vielversprechend angefangen, die Ära nach der Ära bei Real Madrid. Der Wechsel von Cristiano Ronaldo zu Juventus Turin war gerade vollzogen, da spielte sich sein designierter Nachfolger bereits in die Herzen der Fans im Santiago Bernabeu. Als Gareth… [+4023 chars]"
+    },
+    {
+      "id": 14,
+      "source": "Motorsport-total.com",
+      "author": null,
+      "title": "Formel-1-Tests Barcelona 2019: McLaren-Bestzeit ohne Wert? - Motorsport-Total.com",
+      "description": "McLaren-Pilot Lando Norris hat zum Auftakt der zweiten Woche bei den Formel-1-Testfahrten in Barcelona mit einer Showrunde die Bestzeit erzielt",
+      "url": "https://www.motorsport-total.com/formel-1/news/formel-1-tests-barcelona-2019-mclaren-bestzeit-ohne-wert-19022613",
+      "urlToImage": "https://www.motorsport-total.com/img/sm/210662_mst.jpg?rf=1551203938",
+      "publishedAt": "2019-02-26T17:03:00Z",
+      "content": "(Motorsport-Total.com) - McLaren lässt aufhorchen: Formel-1-Neuling Lando Norris hat den MCL34-Renault am fünften Testtag vor der Saison 2019 in Barcelona zur Bestzeit gefahren ( hier das komplette Tagesergebnis abrufen! ). Mit 1:17.709 Minuten, erzielt auf d… [+6842 chars]"
+    },
+    {
+      "id": 15,
+      "source": "T-online.de",
+      "author": "Tim Kummert, AFP, dpa",
+      "title": "Brexit: Zweites Referendum – Bleibt Großbritannien doch in der EU? - t-online.de",
+      "description": "Labour-Chef Jeremy Corbyn hat in Großbritannien ein zweites Referendum vorgeschlagen. Wird der Brexit damit nicht kommen? Und wann ist das klar? Die wichtigsten fünf Fragen und Antworten.",
+      "url": "https://www.t-online.de/nachrichten/ausland/eu/id_85314420/brexit-zweites-referendum-bleibt-grossbritannien-doch-in-der-eu-.html",
+      "urlToImage": "https://bilder.t-online.de/b/85/31/78/30/id_85317830/tid_da/a-protester-stands-among-european-union-flags-outside-the-houses-of-parliament-after-prime-minister-theresa-may-s-brexit-deal-was-rejected-in-london.jpg",
+      "publishedAt": "2019-02-26T16:53:00Z",
+      "content": "Labour-Chef Jeremy Corbyn hat in Großbritannien ein zweites Referendum vorgeschlagen. Wird der Brexit also nicht kommen? Und wann ist das klar? Die wichtigsten fünf Fragen und Antworten. Der nahende Brexit ist zu einer Zitterpartie geworden. Regierungschefin … [+4270 chars]"
+    },
+    {
+      "id": 16,
+      "source": "T-online.de",
+      "author": "t-online.de",
+      "title": "FC Schalke 04: Jochen Schneider wird Nachfolger von Christian Heidel - t-online.de",
+      "description": "Kurz nach dem Rücktritt von Christian Heidel hat der FC Schalke einen neuen Sportvorstand gefunden. Wie der Verein bekanntgab, kommt der Nachfolger von RB Leipzig: Jochen Schneider.",
+      "url": "https://www.t-online.de/sport/fussball/bundesliga/id_85317480/fc-schalke-04-jochen-schneider-wird-nachfolger-von-christian-heidel.html",
+      "urlToImage": "https://bilder.t-online.de/b/85/31/74/98/id_85317498/tid_da/neuer-macher-auf-schalke-leipzigs-jochen-schneider-.jpg",
+      "publishedAt": "2019-02-26T16:52:00Z",
+      "content": "Kurz nach dem Rücktritt von Christian Heidel hat der FC Schalke einen neuen Sportvorstand gefunden. Wie der Verein bekanntgab, kommt der Nachfolger von RB Leipzig: Jochen Schneider. Bei der Suche nach einem neuen Sportvorstand ist Schalke 04 bei RB Leipzig fü… [+1376 chars]"
+    },
+    {
+      "id": 17,
+      "source": "Areamobile.de",
+      "author": null,
+      "title": "Huawei Mate X Hands-on: Die Zukunft lässt sich falten - AreaMobile",
+      "description": "Huawei hat auf dem Mobile World Congress in Barcelona das faltbare Mate X gezeigt. Wurde es auf der Presseveranstaltung noch von einem Huawei-Mitarbeiter bedient, durften wir es nun selbst in den Händen halten und falten. Unser Eindruck im Hands-on.",
+      "url": "http://www.areamobile.de/news/49284-huawei-mate-x-hands-on-die-zukunft-laesst-sich-falten",
+      "urlToImage": "http://i1.areamobile.de/img/00/02/42/42/93-huawei-mate-x-hands-on-00.jpg",
+      "publishedAt": "2019-02-26T16:47:00Z",
+      "content": "Huawei hat auf dem Mobile World Congress in Barcelona das faltbare Mate X gezeigt. Wurde es auf der Presseveranstaltung noch von einem Huawei-Mitarbeiter bedient, durften wir es nun selbst in den Händen halten und falten. Unser Eindruck im Hands-on. Nach eige… [+6558 chars]"
+    },
+    {
+      "id": 18,
+      "source": "Youtube.com",
+      "author": null,
+      "title": "SAMSUNG GALAXY A50 im Hands-On (deutsch): Galaxy S10 Plus für Vernünftige – GIGA.DE - GIGA TECH",
+      "description": "► Samsung Galaxy S10 Plus bei Amazon*: https://www.amazon.de/Samsung-Smartphone-interner-Speicher-Ceramic-Black/dp/B07MTXCK1R/?tag=giga-youtube-21 ► Alle Inf...",
+      "url": "https://www.youtube.com/watch?v=4eHlJU_dpiI",
+      "urlToImage": "https://i.ytimg.com/vi/4eHlJU_dpiI/maxresdefault.jpg",
+      "publishedAt": "2019-02-26T16:44:02Z",
+      "content": "Samsung Galaxy S10 Plus bei Amazon*: https://www.amazon.de/Samsung-Smartph... Alle Infos: https://www.giga.de/smartphones/samsu... Für alle, denen das Samsung Galaxy S10 Plus zu teuer ist, hat Samsung mit dem Galaxy A50 eine interessante Alternative im Angebo… [+1150 chars]"
+    },
+    {
+      "id": 19,
+      "source": "Ok-magazin.de",
+      "author": null,
+      "title": "\"Bachelor\"-Finale: DAS bedeutet Evas weißes Kleid - OK! Magazin",
+      "description": "Die letzte Rose ist längst vergeben - doch die TV-Zuschauer wissen noch nicht, für wen sich Bachelor Andrej Mangold, 32, am 27. Februar entscheidet. Eva Benetatou, 26, oder Jenny Lange, 25? Aufschluss könnte ein nicht unwichtiges Detail liefern ... die Farbe …",
+      "url": "https://www.ok-magazin.de/people/news/bachelor-finale-das-bedeutet-evas-weisses-kleid-55950.html",
+      "urlToImage": "https://www.ok-magazin.de/sites/default/files/styles/facebook/public/media/gallery/2019/02/26/bachelor-finale-eva-weisses-kleid.png?itok=zvPGy_WB",
+      "publishedAt": "2019-02-26T16:23:41Z",
+      "content": "Die letzte Rose ist längst vergeben - doch die TV-Zuschauer wissen noch nicht, für wen sich Bachelor Andrej Mangold, 32, am 27. Februar entscheidet. Eva Benetatou, 26, oder Jenny Lange, 25? Aufschluss könnte ein nicht unwichtiges Detail liefern... die Farbe i… [+2522 chars]"
+    },
+    {
+      "id": 20,
+      "source": "Web.de",
+      "author": null,
+      "title": "Vermisste Rebecca Reusch aus Berlin: Hilferuf der Familie - Mordkommission ermittelt - WEB.DE News",
+      "description": "Seit einer Woche gilt die 15-jährige Rebecca Reusch aus Berlin als vermisst. Während die Polizei zahlreichen Hinweisen nachgeht, wendet sich die Familie des Teenagers nun mit Fotos und Hilferufen an die Öffentlichkeit.",
+      "url": "https://web.de/magazine/panorama/vermisste-rebecca-reusch-berlin-hilferuf-familie-mordkommission-ermittelt-33582432",
+      "urlToImage": "https://i0.web.de/image/504/33582504,pd=7,f=opengraph/rebecca-reusch.png",
+      "publishedAt": "2019-02-26T15:46:00Z",
+      "content": "Seit einer Woche gilt die 15-jährige Rebecca Reusch aus Berlin als vermisst. Während die Polizei zahlreichen Hinweisen nachgeht, wendet sich die Familie des Teenagers mit Hilferufen im Internet an die Öffentlichkeit. Mehr Panoramathemen finden Sie hier Die Fa… [+2124 chars]"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Top-Kunden-Karte",
+      "shortdesc": "Unsere beste Leistung",
+      "featured": true,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/illoinrepellendus.png?size=100x100&set=set1"
+    },
+    {
+      "id": "2",
+      "name": "Renovierungs-Service",
+      "shortdesc": "Unsere Beste Leistung",
+      "featured": true,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/nonaliasvero.bmp?size=100x100&set=set1"
+    },
+    {
+      "id": "3",
+      "name": "Mietgeräte",
+      "shortdesc": "Unsere Beste Leistung",
+      "featured": false,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/quaeratipsamvelit.png?size=100x100&set=set1"
+    },
+    {
+      "id": "4",
+      "name": "Gartengeräte-Service",
+      "shortdesc": "Unsere Beste Leistung",
+      "featured": false,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/autfacilisrerum.bmp?size=100x100&set=set1"
+    },
+    {
+      "id": "5",
+      "name": "Online Bezahlung und Abholung",
+      "shortdesc": "Unsere Beste Leistung",
+      "featured": true,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/autassumendadolores.png?size=100x100&set=set1"
+    },
+    {
+      "id": "6",
+      "name": "Lieferung",
+      "shortdesc": "Unsere Beste Leistung",
+      "featured": false,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/nequemollitiasit.bmp?size=100x100&set=set1"
+    },
+    {
+      "id": "7",
+      "name": "Rückgabe",
+      "shortdesc": "Unsere Beste Leistung",
+      "featured": false,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/voluptateteneturmolestias.png?size=100x100&set=set1"
+    },
+    {
+      "id": "8",
+      "name": "Beratung",
+      "shortdesc": "Unsere Beste Leistung",
+      "featured": true,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/illumimpeditvoluptatem.jpg?size=100x100&set=set1"
+    },
+    {
+      "id": "9",
+      "name": "Online Termin vereinbaren",
+      "shortdesc": "Unsere Beste Leistung",
+      "featured": false,
+      "longdesc": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können. Um ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen? Aber wer hat irgend ein Recht, einen Menschen zu tadeln, der die Entscheidung trifft, eine Freude zu genießen, die keine unangenehmen Folgen hat, oder einen, der Schmerz vermeidet, welcher keine daraus resultierende Freude nach sich zieht?Auch gibt es niemanden, der den Schmerz",
+      "price": 250,
+      "image": "https://robohash.org/etipsumexplicabo.bmp?size=100x100&set=set1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<div class="image">
+  <img [src]="product.image">
+</div>
+<div class="content">
+  <div class="header">{{ product.name}}</div>
+  <div class="meta">
+    <p class="group">{{ product.shortdesc }}</p>
+  </div>
+  <div class="description">Preis: {{ product.price}} €</div>
+  <div class="description">Verfügbar: {{product.available}}</div>
+</div>
+<div class="extra content">
+  <a class="right floated created">Mehr Info</a>
+</div>

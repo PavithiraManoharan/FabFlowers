@@ -1,0 +1,10 @@
+<div class="ui small feed">
+  <h3 class="ui header centered">Neueste Nachrichten</h3>
+  <div class="event" *ngFor="let randomNewsItem of randomNews">
+    <div class="content">
+      <div class="summary">
+          <marquee behavior="slide" direction="up">{{ randomNewsItem.title }}</marquee>
+      </div>
+    </div>
+  </div>
+</div>

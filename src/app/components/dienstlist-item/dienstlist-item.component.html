@@ -1,0 +1,14 @@
+<div class="ui image">
+  <img [src]="dienst.image">
+</div>
+<div class="middle aligned content">
+  <div class="header">{{ dienst.name }}</div>
+  <div class="meta">
+    <span>{{ dienst.shortdesc }}</span>
+  </div>
+  <div class="meta">
+    <p>{{ dienst.longdesc }}</p>
+  </div>
+  <div class="under" *ngIf="!last" style="margin-top: 40px; margin-bottom: 40px;">
+  <div style="margin-bottom: 40px" *ngIf="last"></div>
+</div>

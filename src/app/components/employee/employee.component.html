@@ -1,0 +1,9 @@
+<div class="middle aligned content">
+  <img [class.left]="employee.id % 2 === 0" [class.right]="employee.id % 2 !== 0" class="ui floated small image transition visible" data-src="{{employee.image}}" src="{{employee.image}}">
+  <h3 style="margin-bottom: 5px">{{employee.firstname}} {{employee.lastname}}</h3>
+  <strong>{{employee.roll}}</strong><br><br>
+  Catchphrase: <em>"{{employee.slogan}}"</em><br><br>
+  <p>{{employee.firstname}} ist zuständig für {{employee.desc}}. Florem ipsum sneezeweed peruvian lily dune helleborine plumed thistle. Scabious st john’s wort holy grass false goat’s beard. Bloom glory lily drumstick gentian buttercup cosmos foxtail lily.</p>
+</div>
+<hr *ngIf="!last" style="margin-top: 40px; margin-bottom: 40px;">
+<div style="margin-bottom: 40px" *ngIf="last"></div>
