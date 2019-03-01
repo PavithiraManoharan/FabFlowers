@@ -53,6 +53,6 @@
     <div *ngIf="errors.image" class="ui negative message">{{errors.image}}</div>
   </div>
   <button *ngIf="!isUpdatingProduct" class="ui green inverted button" routerLink="../">Zurück</button>
-  <button *ngIf="isUpdatingProduct" class="ui green inverted button" routerLink="../../../produkte/{{ produkt.id }}">Zurück</button>
+  <button *ngIf="isUpdatingProduct" class="ui green inverted button" routerLink="../../../produkte/{{ product.id }}">Zurück</button>
   <button type="submit" class="ui black button" [disabled]="myProductForm.invalid">Speichern</button>
 </form>
